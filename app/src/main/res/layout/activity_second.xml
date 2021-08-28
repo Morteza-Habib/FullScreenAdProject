@@ -13,4 +13,5 @@
         android:text="2nd Activity"
         android:textColor="@color/black"
         android:textSize="30sp" />
+
 </RelativeLayout>

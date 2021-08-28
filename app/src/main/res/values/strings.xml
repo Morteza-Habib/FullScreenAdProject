@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FullScreenAdProject</string>
+
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_ad_unit">ca-app-pub-3940256099942544/8691691433</string>
+</resources>
